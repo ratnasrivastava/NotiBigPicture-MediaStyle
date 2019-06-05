@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noti-BigPicture+MediaStyle</string>
+    <string name="channel1">Send On Channel 1</string>
+    <string name="channel2">Send On Channel 2</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+</resources>
